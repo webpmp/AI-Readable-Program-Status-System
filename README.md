@@ -62,9 +62,10 @@ Names are for readability. IDs are the source of truth.
 
 ```
 ---
-## PROGRAM STATUS SUMMARY 
+# PROGRAM STATUS 
 ---
-PROGRAM STATUS SUMMARY (Exec View)
+
+### SUMMARY
 
 | Project ID | Project   | Status   | Health | % Complete | Next Milestone | Critical Blocker |
 |------------|-----------|----------|--------|------------|----------------|------------------|
@@ -79,7 +80,6 @@ PROGRAM STATUS SUMMARY (Exec View)
 | R-G1  | Risk        | [Shared risk]      | [H/M/L]| DL-01          |
 | DEP-G1| Dependency  | [External/API]     | [—]    | UXD-01         |
 
-<br>
 
 ---
 ## PROJECT TEMPLATE (COPY PER PROJECT)
